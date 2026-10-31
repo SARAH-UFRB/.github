@@ -1,1 +1,2 @@
-# .github
+- 👋 Hello everyone!! We are the team from the robotics category at Home UFRB! And our robot is named S.A.R.A.H.
+- A robot capable of understanding human speech and performing actions such as: following the person, making presentations, picking up objects and recognizing the leader, we are just starting our work, so keep an eye out
